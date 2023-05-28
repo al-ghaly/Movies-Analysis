@@ -17,5 +17,5 @@
 
 <br><br>
 
-> This project is done without the help of NumPy, padas, or any Python data analysis package.<br>
-> I just wanted to combine my 2-loves, programming and data analysis to analyze the data usng OOP.
+> ## This project is done without the help of NumPy, padas, or any Python data analysis package.<br>
+> ## I just wanted to combine my 2-loves, programming and data analysis to analyze the data usng OOP.
