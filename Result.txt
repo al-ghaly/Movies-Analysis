@@ -1,0 +1,512 @@
+ ----------   Actors   ----------
+The Best 10 Actors For Me Are : 
+	1 - Bryan Cranston With Rate: Me --> 9.8 -- IMDb -->9.5 
+		His Best 3 Movies Are : Breaking Bad
+		And His Worst 3 Movies Are : Breaking Bad
+
+	2 - Anna Gunn With Rate: Me --> 9.8 -- IMDb -->9.5 
+		His Best 3 Movies Are : Breaking Bad
+		And His Worst 3 Movies Are : Breaking Bad
+
+	3 - Tim Robbins With Rate: Me --> 9.7 -- IMDb -->9.3 
+		His Best 3 Movies Are : The Shawshank Redemption
+		And His Worst 3 Movies Are : The Shawshank Redemption
+
+	4 - Bob Gunton With Rate: Me --> 9.7 -- IMDb -->9.3 
+		His Best 3 Movies Are : The Shawshank Redemption
+		And His Worst 3 Movies Are : The Shawshank Redemption
+
+	5 - Tom Wilkinson With Rate: Me --> 9.6 -- IMDb -->8.3 
+		His Best 3 Movies Are : Eternal Sunshine Of The Spotless Mind
+		And His Worst 3 Movies Are : Eternal Sunshine Of The Spotless Mind
+
+	6 - Heath Ledger With Rate: Me --> 9.3 -- IMDb -->9.0 
+		His Best 3 Movies Are : The Dark Knight
+		And His Worst 3 Movies Are : The Dark Knight
+
+	7 - Robin Wright With Rate: Me --> 9.2 -- IMDb -->8.8 
+		His Best 3 Movies Are : Forrest Gump
+		And His Worst 3 Movies Are : Forrest Gump
+
+	8 - Gary Sinise With Rate: Me --> 9.2 -- IMDb -->8.8 
+		His Best 3 Movies Are : Forrest Gump
+		And His Worst 3 Movies Are : Forrest Gump
+
+	9 - Jason Statham With Rate: Me --> 9.15 -- IMDb -->8.3 
+		His Best 3 Movies Are : Snatch
+		And His Worst 3 Movies Are : Snatch
+
+	10 - Benicio Del Toro With Rate: Me --> 9.15 -- IMDb -->8.3 
+		His Best 3 Movies Are : Snatch
+		And His Worst 3 Movies Are : Snatch
+
+
+The Worst 10 Actors For Me Are : 
+	1 - Unknown With Rate: Me --> 1.2 -- IMDb -->7.0
+		His Best 3 Movies Are : El Hoyo (The Platform)
+		And His Worst 3 Movies Are : El Hoyo (The Platform)
+
+	2 - Aaron Taylor-Johnson With Rate: Me --> 1.5 -- IMDb -->7.6
+		His Best 3 Movies Are : Kick-Ass
+		And His Worst 3 Movies Are : Kick-Ass
+
+	3 - Chloë Grace Moretz With Rate: Me --> 1.5 -- IMDb -->7.6
+		His Best 3 Movies Are : Kick-Ass
+		And His Worst 3 Movies Are : Kick-Ass
+
+	4 - Mary Elizabeth Winstead With Rate: Me --> 1.8 -- IMDb -->5.7
+		His Best 3 Movies Are : Gemini Man
+		And His Worst 3 Movies Are : Gemini Man
+
+	5 - Clive Owen With Rate: Me --> 1.8 -- IMDb -->5.7
+		His Best 3 Movies Are : Gemini Man
+		And His Worst 3 Movies Are : Gemini Man
+
+	6 - Emilio Estevez With Rate: Me --> 2.5 -- IMDb -->7.8
+		His Best 3 Movies Are : The Breakfast Club
+		And His Worst 3 Movies Are : The Breakfast Club
+
+	7 - Judd Nelson With Rate: Me --> 2.5 -- IMDb -->7.8
+		His Best 3 Movies Are : The Breakfast Club
+		And His Worst 3 Movies Are : The Breakfast Club
+
+	8 - Molly Ringwald With Rate: Me --> 2.5 -- IMDb -->7.8
+		His Best 3 Movies Are : The Breakfast Club
+		And His Worst 3 Movies Are : The Breakfast Club
+
+	9 - Ariel Schulman With Rate: Me --> 2.6 -- IMDb -->6.0
+		His Best 3 Movies Are : Project Power
+		And His Worst 3 Movies Are : Project Power
+
+	10 - Jamie Foxx With Rate: Me --> 2.6 -- IMDb -->6.0
+		His Best 3 Movies Are : Project Power
+		And His Worst 3 Movies Are : Project Power
+
+
+The Most 10 Actors I Have Seen Movies For Are : 
+	1 - Jim Carrey With Rate: Me --> 7.06 -- IMDb -->6.76 And 21 Movies
+		His Best 3 Movies Are : Eternal Sunshine Of The Spotless Mind - The Truman Show - Liar Liar
+		And His Worst 3 Movies Are : Sonic The Hedgehog - A Series Of Unfortunate Events - Kidding
+
+	2 - Tom Hanks With Rate: Me --> 7.47 -- IMDb -->7.6 And 13 Movies
+		His Best 3 Movies Are : Forrest Gump - Catch Me If You Can - You'Ve Got Mail
+		And His Worst 3 Movies Are : A League Of Their Own - Sully - Saving Mr. Banks
+
+	3 - Adam Sandler With Rate: Me --> 5.85 -- IMDb -->6.33 And 9 Movies
+		His Best 3 Movies Are : Just Go With It - 50 First Dates - Blended
+		And His Worst 3 Movies Are : Click - Anger Management - That'S My Boy
+
+	4 - Steve Carell With Rate: Me --> 6.12 -- IMDb -->6.97 And 9 Movies
+		His Best 3 Movies Are : The 40 Year Old Virgin - Vice - The Big Short
+		And His Worst 3 Movies Are : Little Miss Sunshine - Dan In Real Life - The Incredible Burt Wonderstone
+
+	5 - Christian Bale With Rate: Me --> 7.52 -- IMDb -->7.94 And 9 Movies
+		His Best 3 Movies Are : The Dark Knight - The Prestige - American Hustle
+		And His Worst 3 Movies Are : The Big Short - The Dark Knight Rises - The Machinist
+
+	6 - Leonardo Dicaprio With Rate: Me --> 7.64 -- IMDb -->8.06 And 9 Movies
+		His Best 3 Movies Are : Inception - Shutter Island - Catch Me If You Can
+		And His Worst 3 Movies Are : Once Upon A Time... In Hollywood - The Departed - Blood Diamond
+
+	7 - Will Smith With Rate: Me --> 5.81 -- IMDb -->6.86 And 7 Movies
+		His Best 3 Movies Are : The Pursuit Of Happyness - Seven Pounds - Bad Boys
+		And His Worst 3 Movies Are : Hitch - Bad Boys Ii - Gemini Man
+
+	8 - Jennifer Aniston With Rate: Me --> 7.12 -- IMDb -->6.69 And 7 Movies
+		His Best 3 Movies Are : Bruce Almighty - We'Re The Millers - Just Go With It
+		And His Worst 3 Movies Are : The Bounty Hunter - The Switch - Along Came Polly
+
+	9 - Matthew Mcconaughey With Rate: Me --> 7.72 -- IMDb -->7.56 And 7 Movies
+		His Best 3 Movies Are : Interstellar - Dallas Buyers Club - Frailty
+		And His Worst 3 Movies Are : How To Lose A Guy In 10 Days - Mud - A Time To Kill
+
+	10 - Brad Pitt With Rate: Me --> 8.11 -- IMDb -->7.94 And 7 Movies
+		His Best 3 Movies Are : Snatch - Fight Club - Se7En
+		And His Worst 3 Movies Are : Twelve Monkeys - Mr. & Mrs. Smith - Once Upon A Time... In Hollywood
+
+
+
+ ----------   Directors   ----------
+The Best 10 Directors For Me Are : 
+	1 - Michel Gondry With Rate: Me --> 9.6 -- IMDb -->8.3 
+		His Best 3 Movies Are : Eternal Sunshine Of The Spotless Mind
+		And His Worst 3 Movies Are : Eternal Sunshine Of The Spotless Mind
+
+	2 - Sidney Lumet With Rate: Me --> 9.1 -- IMDb -->9.0 
+		His Best 3 Movies Are : 12 Angry Men
+		And His Worst 3 Movies Are : 12 Angry Men
+
+	3 - Frank Darabont With Rate: Me --> 8.96 -- IMDb -->8.95 
+		His Best 3 Movies Are : The Shawshank Redemption - The Green Mile
+		And His Worst 3 Movies Are : The Shawshank Redemption - The Green Mile
+
+	4 - Justin Baldoni With Rate: Me --> 8.94 -- IMDb -->7.2 
+		His Best 3 Movies Are : Five Feet Apart
+		And His Worst 3 Movies Are : Five Feet Apart
+
+	5 - Jessie Nelson With Rate: Me --> 8.92 -- IMDb -->7.7 
+		His Best 3 Movies Are : I'M Sam
+		And His Worst 3 Movies Are : I'M Sam
+
+	6 - Bryan Singer With Rate: Me --> 8.91 -- IMDb -->8.5 
+		His Best 3 Movies Are : The Usual Suspects
+		And His Worst 3 Movies Are : The Usual Suspects
+
+	7 - Josh Boone With Rate: Me --> 8.8 -- IMDb -->7.7 
+		His Best 3 Movies Are : The Fault In Our Stars
+		And His Worst 3 Movies Are : The Fault In Our Stars
+
+	8 - Thea Sharrock With Rate: Me --> 8.72 -- IMDb -->7.4 
+		His Best 3 Movies Are : Me Before You
+		And His Worst 3 Movies Are : Me Before You
+
+	9 - Robert Zemeckis With Rate: Me --> 8.68 -- IMDb -->8.3 
+		His Best 3 Movies Are : Forrest Gump - Cast Away
+		And His Worst 3 Movies Are : Forrest Gump - Cast Away
+
+	10 - Nick Cassavetes With Rate: Me --> 8.67 -- IMDb -->7.8 
+		His Best 3 Movies Are : The Notebook
+		And His Worst 3 Movies Are : The Notebook
+
+
+The Worst 10 Directors For Me Are : 
+	1 - Galder Gaztelu-Urrutia With Rate: Me --> 1.2 -- IMDb -->7.0
+		His Best 3 Movies Are : El Hoyo (The Platform)
+		And His Worst 3 Movies Are : El Hoyo (The Platform)
+
+	2 - Matthew Vaughn With Rate: Me --> 1.5 -- IMDb -->7.6
+		His Best 3 Movies Are : Kick-Ass
+		And His Worst 3 Movies Are : Kick-Ass
+
+	3 - Ang Lee With Rate: Me --> 1.8 -- IMDb -->5.7
+		His Best 3 Movies Are : Gemini Man
+		And His Worst 3 Movies Are : Gemini Man
+
+	4 - John Hughes With Rate: Me --> 2.5 -- IMDb -->7.8
+		His Best 3 Movies Are : The Breakfast Club
+		And His Worst 3 Movies Are : The Breakfast Club
+
+	5 - Henry Joost With Rate: Me --> 2.6 -- IMDb -->6.0
+		His Best 3 Movies Are : Project Power
+		And His Worst 3 Movies Are : Project Power
+
+	6 - Ariel Schulman With Rate: Me --> 2.6 -- IMDb -->6.0
+		His Best 3 Movies Are : Project Power
+		And His Worst 3 Movies Are : Project Power
+
+	7 - Don Scardino With Rate: Me --> 2.8 -- IMDb -->5.9
+		His Best 3 Movies Are : The Incredible Burt Wonderstone
+		And His Worst 3 Movies Are : The Incredible Burt Wonderstone
+
+	8 - Marjane Satrapi With Rate: Me --> 3.5 -- IMDb -->6.4
+		His Best 3 Movies Are : The Voices
+		And His Worst 3 Movies Are : The Voices
+
+	9 - Sean Anders With Rate: Me --> 3.7 -- IMDb -->5.5
+		His Best 3 Movies Are : That'S My Boy
+		And His Worst 3 Movies Are : That'S My Boy
+
+	10 - Alejandro G. Iñárritu With Rate: Me --> 3.8 -- IMDb -->7.7
+		His Best 3 Movies Are : Birdman Or (The Unexpected Virtue Of Ignorance)
+		And His Worst 3 Movies Are : Birdman Or (The Unexpected Virtue Of Ignorance)
+
+
+The Most 10 Directors I Have Seen Movies For Are : 
+	1 - Christopher Nolan With Rate: Me --> 8.35 -- IMDb -->8.62 And 6 Movies
+		His Best 3 Movies Are : The Dark Knight - Inception - Interstellar
+		And His Worst 3 Movies Are : The Prestige - Memento - The Dark Knight Rises
+
+	2 - David Fincher With Rate: Me --> 8.36 -- IMDb -->8.2 And 5 Movies
+		His Best 3 Movies Are : Fight Club - Se7En - The Curious Case Of Benjamin Button
+		And His Worst 3 Movies Are : The Curious Case Of Benjamin Button - Gone Girl - Zodiac
+
+	3 - Todd Phillips With Rate: Me --> 6.68 -- IMDb -->7.45 And 4 Movies
+		His Best 3 Movies Are : Joker - The Hangover - Old School
+		And His Worst 3 Movies Are : The Hangover - Old School - The Hangover Part Ii
+
+	4 - Martin Scorsese With Rate: Me --> 7.57 -- IMDb -->8.3 And 4 Movies
+		His Best 3 Movies Are : Shutter Island - Taxi Driver - The Wolf Of Wall Street
+		And His Worst 3 Movies Are : Taxi Driver - The Wolf Of Wall Street - The Departed
+
+	5 - Glenn Ficarra With Rate: Me --> 5.76 -- IMDb -->6.87 And 3 Movies
+		His Best 3 Movies Are : Crazy, Stupid, Love. - Focus - I Love You Phillip Morris
+		And His Worst 3 Movies Are : Crazy, Stupid, Love. - Focus - I Love You Phillip Morris
+
+	6 - John Requa With Rate: Me --> 5.76 -- IMDb -->6.87 And 3 Movies
+		His Best 3 Movies Are : Crazy, Stupid, Love. - Focus - I Love You Phillip Morris
+		And His Worst 3 Movies Are : Crazy, Stupid, Love. - Focus - I Love You Phillip Morris
+
+	7 - Frank Coraci With Rate: Me --> 5.81 -- IMDb -->6.57 And 3 Movies
+		His Best 3 Movies Are : Blended - The Wedding Singer - Click
+		And His Worst 3 Movies Are : Blended - The Wedding Singer - Click
+
+	8 - Peter Segal With Rate: Me --> 6.2 -- IMDb -->6.53 And 3 Movies
+		His Best 3 Movies Are : 50 First Dates - Get Smart - Anger Management
+		And His Worst 3 Movies Are : 50 First Dates - Get Smart - Anger Management
+
+	9 - Joel Schumacher With Rate: Me --> 6.57 -- IMDb -->6.43 And 3 Movies
+		His Best 3 Movies Are : The Number 23 - A Time To Kill - Batman Forever
+		And His Worst 3 Movies Are : The Number 23 - A Time To Kill - Batman Forever
+
+	10 - Dennis Dugan With Rate: Me --> 6.58 -- IMDb -->6.23 And 3 Movies
+		His Best 3 Movies Are : Just Go With It - Grown Ups - Big Daddy
+		And His Worst 3 Movies Are : Just Go With It - Grown Ups - Big Daddy
+
+
+
+ ----------   Years   ----------
+The Best 10 Years For Me Are : 
+	1 - 1957 With Rate: Me --> 9.1 -- IMDb -->9.0 
+		His Best 3 Movies Are : 12 Angry Men
+		And His Worst 3 Movies Are : 12 Angry Men
+
+	2 - 1972 With Rate: Me --> 8.51 -- IMDb -->9.2 
+		His Best 3 Movies Are : The Godfather
+		And His Worst 3 Movies Are : The Godfather
+
+	3 - 1994 With Rate: Me --> 8.43 -- IMDb -->8.14 
+		His Best 3 Movies Are : The Shawshank Redemption - Forrest Gump - Pulp Fiction
+		And His Worst 3 Movies Are : The Mask - Ace Ventura: Pet Detective - Friends
+
+	4 - 1976 With Rate: Me --> 8.21 -- IMDb -->8.3 
+		His Best 3 Movies Are : Taxi Driver
+		And His Worst 3 Movies Are : Taxi Driver
+
+	5 - 2000 With Rate: Me --> 8.0 -- IMDb -->7.45 
+		His Best 3 Movies Are : Snatch - Cast Away - Memento
+		And His Worst 3 Movies Are : Bedazzled - Me, Myself & Irene - American Psycho
+
+	6 - 2002 With Rate: Me --> 7.89 -- IMDb -->7.57 
+		His Best 3 Movies Are : Catch Me If You Can - The Pianist - Two Weeks Notice
+		And His Worst 3 Movies Are : Catch Me If You Can - The Pianist - Two Weeks Notice
+
+	7 - 1993 With Rate: Me --> 7.87 -- IMDb -->7.9 
+		His Best 3 Movies Are : What'S Eating Gilbert Grape - Groundhog Day
+		And His Worst 3 Movies Are : What'S Eating Gilbert Grape - Groundhog Day
+
+	8 - 1988 With Rate: Me --> 7.73 -- IMDb -->7.65 
+		His Best 3 Movies Are : Big - Rain Man
+		And His Worst 3 Movies Are : Big - Rain Man
+
+	9 - 1995 With Rate: Me --> 7.67 -- IMDb -->7.3 
+		His Best 3 Movies Are : The Usual Suspects - Se7En - Twelve Monkeys
+		And His Worst 3 Movies Are : Ace Ventura: When Nature Calls - Bad Boys - Batman Forever
+
+	10 - 2008 With Rate: Me --> 7.66 -- IMDb -->7.33 
+		His Best 3 Movies Are : Breaking Bad - The Dark Knight - The Curious Case Of Benjamin Button
+		And His Worst 3 Movies Are : Get Smart - 21 - What Happens In Vegas
+
+
+The Worst 10 Years For Me Are : 
+	1 - 1985 With Rate: Me --> 2.5 -- IMDb -->7.8
+		His Best 3 Movies Are : The Breakfast Club
+		And His Worst 3 Movies Are : The Breakfast Club
+
+	2 - 1989 With Rate: Me --> 5.61 -- IMDb -->7.1
+		His Best 3 Movies Are : The 'Burbs - Driving Miss Daisy
+		And His Worst 3 Movies Are : The 'Burbs - Driving Miss Daisy
+
+	3 - 1980 With Rate: Me --> 5.82 -- IMDb -->8.4
+		His Best 3 Movies Are : The Shining
+		And His Worst 3 Movies Are : The Shining
+
+	4 - 2020 With Rate: Me --> 6.05 -- IMDb -->6.21
+		His Best 3 Movies Are : Palm Springs - The Kissing Booth 2 - After We Collided
+		And His Worst 3 Movies Are : Im Thinking Of Ending Things - Sonic The Hedgehog - Project Power
+
+	5 - 2018 With Rate: Me --> 6.16 -- IMDb -->6.34
+		His Best 3 Movies Are : Vice - The First Purge - The Kissing Booth
+		And His Worst 3 Movies Are : The Kissing Booth - The Nun - Kidding
+
+	6 - 2003 With Rate: Me --> 6.33 -- IMDb -->7.07
+		His Best 3 Movies Are : Bruce Almighty - How To Lose A Guy In 10 Days - Finding Nemo
+		And His Worst 3 Movies Are : Matchstick Men - Bad Boys Ii - Anger Management
+
+	7 - 2019 With Rate: Me --> 6.5 -- IMDb -->7.33
+		His Best 3 Movies Are : Five Feet Apart - Knives Out - Jojo Rabbit
+		And His Worst 3 Movies Are : After - Gemini Man - El Hoyo (The Platform)
+
+	8 - 2005 With Rate: Me --> 6.63 -- IMDb -->6.9
+		His Best 3 Movies Are : V For Vendetta - The 40 Year Old Virgin - Fun With Dick And Jane
+		And His Worst 3 Movies Are : Monster-In-Law - Hitch - Prison Break
+
+	9 - 1997 With Rate: Me --> 6.64 -- IMDb -->7.63
+		His Best 3 Movies Are : Liar Liar - Good Will Hunting - As Good As It Gets
+		And His Worst 3 Movies Are : Liar Liar - Good Will Hunting - As Good As It Gets
+
+	10 - 2010 With Rate: Me --> 6.68 -- IMDb -->6.8
+		His Best 3 Movies Are : Inception - Shutter Island - Love & Other Drugs
+		And His Worst 3 Movies Are : The Switch - Knight And Day - Kick-Ass
+
+
+The Most 10 Years I Have Seen Movies For Are : 
+	1 - 2013 With Rate: Me --> 6.71 -- IMDb -->7.3 And 16 Movies
+		His Best 3 Movies Are : Her - About Time - Dallas Buyers Club
+		And His Worst 3 Movies Are : Saving Mr. Banks - The Heat - The Incredible Burt Wonderstone
+
+	2 - 2019 With Rate: Me --> 6.5 -- IMDb -->7.33 And 13 Movies
+		His Best 3 Movies Are : Five Feet Apart - Knives Out - Jojo Rabbit
+		And His Worst 3 Movies Are : After - Gemini Man - El Hoyo (The Platform)
+
+	3 - 2014 With Rate: Me --> 7.17 -- IMDb -->7.32 And 13 Movies
+		His Best 3 Movies Are : The Fault In Our Stars - Interstellar - The Grand Budapest Hotel
+		And His Worst 3 Movies Are : A Long Way Down - Birdman Or (The Unexpected Virtue Of Ignorance) - The Voices
+
+	4 - 2016 With Rate: Me --> 6.72 -- IMDb -->6.98 And 12 Movies
+		His Best 3 Movies Are : Me Before You - La La Land - Bridget Jones'S Baby
+		And His Worst 3 Movies Are : Deadpool - Now You See Me 2 - Dirty Grandpa
+
+	5 - 2011 With Rate: Me --> 7.09 -- IMDb -->6.85 And 12 Movies
+		His Best 3 Movies Are : One Day - Detachment  - Bad Teacher
+		And His Worst 3 Movies Are : The Cabin In The Woods - In Time - The Hangover Part Ii
+
+	6 - 2004 With Rate: Me --> 7.18 -- IMDb -->7.21 And 12 Movies
+		His Best 3 Movies Are : Eternal Sunshine Of The Spotless Mind - The Notebook - Bridget Jones: The Edge Of Reason
+		And His Worst 3 Movies Are : The Machinist - Along Came Polly - A Series Of Unfortunate Events
+
+	7 - 2008 With Rate: Me --> 7.66 -- IMDb -->7.33 And 11 Movies
+		His Best 3 Movies Are : Breaking Bad - The Dark Knight - The Curious Case Of Benjamin Button
+		And His Worst 3 Movies Are : Get Smart - 21 - What Happens In Vegas
+
+	8 - 2010 With Rate: Me --> 6.68 -- IMDb -->6.8 And 10 Movies
+		His Best 3 Movies Are : Inception - Shutter Island - Love & Other Drugs
+		And His Worst 3 Movies Are : The Switch - Knight And Day - Kick-Ass
+
+	9 - 2005 With Rate: Me --> 6.63 -- IMDb -->6.9 And 9 Movies
+		His Best 3 Movies Are : V For Vendetta - The 40 Year Old Virgin - Fun With Dick And Jane
+		And His Worst 3 Movies Are : Monster-In-Law - Hitch - Prison Break
+
+	10 - 2020 With Rate: Me --> 6.05 -- IMDb -->6.21 And 8 Movies
+		His Best 3 Movies Are : Palm Springs - The Kissing Booth 2 - After We Collided
+		And His Worst 3 Movies Are : Im Thinking Of Ending Things - Sonic The Hedgehog - Project Power
+
+
+
+ ----------   Genres   ----------
+The Best 10 Genres For Me Are : 
+	1 -  Western With Rate: Me --> 8.5 -- IMDb -->8.2 
+		His Best 3 Movies Are : Unforgiven
+		And His Worst 3 Movies Are : Unforgiven
+
+	2 - Mystery With Rate: Me --> 8.23 -- IMDb -->8.2 
+		His Best 3 Movies Are : Shutter Island - Twelve Monkeys - Memento
+		And His Worst 3 Movies Are : Shutter Island - Twelve Monkeys - Memento
+
+	3 -  Musical With Rate: Me --> 8.0 -- IMDb -->8.0 
+		His Best 3 Movies Are : La La Land
+		And His Worst 3 Movies Are : La La Land
+
+	4 - Animation With Rate: Me --> 7.98 -- IMDb -->8.07 
+		His Best 3 Movies Are : Ratatouille - Monsters, Inc. - Finding Nemo
+		And His Worst 3 Movies Are : Ratatouille - Monsters, Inc. - Finding Nemo
+
+	5 -  War With Rate: Me --> 7.92 -- IMDb -->8.2 
+		His Best 3 Movies Are : Jojo Rabbit - The Pianist
+		And His Worst 3 Movies Are : Jojo Rabbit - The Pianist
+
+	6 - Drama With Rate: Me --> 7.76 -- IMDb -->7.65 
+		His Best 3 Movies Are : The Shawshank Redemption - Eternal Sunshine Of The Spotless Mind - Forrest Gump
+		And His Worst 3 Movies Are : The Shining - After - Driving Miss Daisy
+
+	7 - Crime With Rate: Me --> 7.6 -- IMDb -->8.04 
+		His Best 3 Movies Are : Breaking Bad - 12 Angry Men - The Usual Suspects
+		And His Worst 3 Movies Are : A Time To Kill - Now You See Me - Training Day
+
+	8 -  Fantasy With Rate: Me --> 7.33 -- IMDb -->7.23 
+		His Best 3 Movies Are : About Time - The Curious Case Of Benjamin Button - The Green Mile
+		And His Worst 3 Movies Are : The Secret Life Of Walter Mitty - Click - A Series Of Unfortunate Events
+
+	9 - Adventure With Rate: Me --> 7.28 -- IMDb -->7.62 
+		His Best 3 Movies Are : Interstellar - The Grand Budapest Hotel - Captain Phillips
+		And His Worst 3 Movies Are : Blood Diamond - Into The Wild - A Series Of Unfortunate Events
+
+	10 -  Romance With Rate: Me --> 7.24 -- IMDb -->6.87 
+		His Best 3 Movies Are : Eternal Sunshine Of The Spotless Mind - Forrest Gump - Five Feet Apart
+		And His Worst 3 Movies Are : I Love You Phillip Morris - As Good As It Gets - Dan In Real Life
+
+
+The Worst 10 Genres For Me Are : 
+	1 - Horror With Rate: Me --> 5.12 -- IMDb -->6.38
+		His Best 3 Movies Are : The Purge - The Conjuring - The Nun
+		And His Worst 3 Movies Are : The Conjuring - The Nun - El Hoyo (The Platform)
+
+	2 - Action With Rate: Me --> 6.2 -- IMDb -->6.97
+		His Best 3 Movies Are : The Dark Knight - Inception - El Camino: A Breaking Bad Movie
+		And His Worst 3 Movies Are : Project Power - Gemini Man - Kick-Ass
+
+	3 -  Comedy With Rate: Me --> 6.25 -- IMDb -->7.04
+		His Best 3 Movies Are : The Grand Budapest Hotel - Ratatouille - The Mask
+		And His Worst 3 Movies Are : The Heat - A Series Of Unfortunate Events - Kick-Ass
+
+	4 -  Sport With Rate: Me --> 6.27 -- IMDb -->7.9
+		His Best 3 Movies Are : Million Dollar Baby - Ford V Ferrari - A League Of Their Own
+		And His Worst 3 Movies Are : Ford V Ferrari - A League Of Their Own - The Big Lebowski
+
+	5 -  Crime With Rate: Me --> 6.44 -- IMDb -->7.26
+		His Best 3 Movies Are : The Dark Knight - Snatch - Catch Me If You Can
+		And His Worst 3 Movies Are : The Voices - Project Power - Kick-Ass
+
+	6 -  Horror With Rate: Me --> 6.57 -- IMDb -->6.8
+		His Best 3 Movies Are : Don'T Breathe - The Purge: Election Year - The Purge: Anarchy
+		And His Worst 3 Movies Are : The Cabin In The Woods - The Shining - The Voices
+
+	7 - Comedy With Rate: Me --> 6.7 -- IMDb -->6.86
+		His Best 3 Movies Are : Snatch - The Holiday - About Time
+		And His Worst 3 Movies Are : Kidding - The Incredible Burt Wonderstone - The Breakfast Club
+
+	8 -  Sci-Fi With Rate: Me --> 6.75 -- IMDb -->7.34
+		His Best 3 Movies Are : Eternal Sunshine Of The Spotless Mind - Inception - Interstellar
+		And His Worst 3 Movies Are : Project Power - Gemini Man - El Hoyo (The Platform)
+
+	9 -  Thriller With Rate: Me --> 6.76 -- IMDb -->7.33
+		His Best 3 Movies Are : Breaking Bad - The Dark Knight - Inception
+		And His Worst 3 Movies Are : Project Power - Gemini Man - El Hoyo (The Platform)
+
+	10 -  Adventure With Rate: Me --> 6.78 -- IMDb -->7.31
+		His Best 3 Movies Are : Inception - Ratatouille - Monsters, Inc.
+		And His Worst 3 Movies Are : Batman Forever - Now You See Me 2 - Sonic The Hedgehog
+
+
+The Most 10 Genres I Have Seen Movies For Are : 
+	1 - Comedy With Rate: Me --> 6.7 -- IMDb -->6.86 And 96 Movies
+		His Best 3 Movies Are : Snatch - The Holiday - About Time
+		And His Worst 3 Movies Are : Kidding - The Incredible Burt Wonderstone - The Breakfast Club
+
+	2 -  Drama With Rate: Me --> 6.98 -- IMDb -->7.55 And 87 Movies
+		His Best 3 Movies Are : Breaking Bad - The Dark Knight - 12 Angry Men
+		And His Worst 3 Movies Are : Kidding - The Breakfast Club - Gemini Man
+
+	3 -  Romance With Rate: Me --> 7.24 -- IMDb -->6.87 And 71 Movies
+		His Best 3 Movies Are : Eternal Sunshine Of The Spotless Mind - Forrest Gump - Five Feet Apart
+		And His Worst 3 Movies Are : I Love You Phillip Morris - As Good As It Gets - Dan In Real Life
+
+	4 -  Thriller With Rate: Me --> 6.76 -- IMDb -->7.33 And 54 Movies
+		His Best 3 Movies Are : Breaking Bad - The Dark Knight - Inception
+		And His Worst 3 Movies Are : Project Power - Gemini Man - El Hoyo (The Platform)
+
+	5 - Drama With Rate: Me --> 7.76 -- IMDb -->7.65 And 40 Movies
+		His Best 3 Movies Are : The Shawshank Redemption - Eternal Sunshine Of The Spotless Mind - Forrest Gump
+		And His Worst 3 Movies Are : The Shining - After - Driving Miss Daisy
+
+	6 - Action With Rate: Me --> 6.2 -- IMDb -->6.97 And 31 Movies
+		His Best 3 Movies Are : The Dark Knight - Inception - El Camino: A Breaking Bad Movie
+		And His Worst 3 Movies Are : Project Power - Gemini Man - Kick-Ass
+
+	7 -  Crime With Rate: Me --> 6.44 -- IMDb -->7.26 And 31 Movies
+		His Best 3 Movies Are : The Dark Knight - Snatch - Catch Me If You Can
+		And His Worst 3 Movies Are : The Voices - Project Power - Kick-Ass
+
+	8 -  Comedy With Rate: Me --> 6.25 -- IMDb -->7.04 And 28 Movies
+		His Best 3 Movies Are : The Grand Budapest Hotel - Ratatouille - The Mask
+		And His Worst 3 Movies Are : The Heat - A Series Of Unfortunate Events - Kick-Ass
+
+	9 - Crime With Rate: Me --> 7.6 -- IMDb -->8.04 And 22 Movies
+		His Best 3 Movies Are : Breaking Bad - 12 Angry Men - The Usual Suspects
+		And His Worst 3 Movies Are : A Time To Kill - Now You See Me - Training Day
+
+	10 -  Sci-Fi With Rate: Me --> 6.75 -- IMDb -->7.34 And 19 Movies
+		His Best 3 Movies Are : Eternal Sunshine Of The Spotless Mind - Inception - Interstellar
+		And His Worst 3 Movies Are : Project Power - Gemini Man - El Hoyo (The Platform)
+
+
+
