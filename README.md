@@ -15,7 +15,7 @@
 - ### In which year were the best movies released.
 - ### Who are the actors I like the most.
 
-<br><br>
+<br> <br>
 
 > ## This project is done without the help of NumPy, padas, or any Python data analysis package.<br>
 > ## I just wanted to combine my 2-loves, programming and data analysis to analyze the data usng OOP.
